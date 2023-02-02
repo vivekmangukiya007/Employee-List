@@ -1,0 +1,10 @@
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #fff
+    url('https://i.pinimg.com/originals/dd/67/4f/dd674f89d713bb2645a3292510219998.gif')
+     no-repeat center center;	
+       background-size: 30%;
+    z-index: 9999;
+  }

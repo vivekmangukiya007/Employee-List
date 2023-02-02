@@ -1,0 +1,21 @@
+.form-content{
+    margin: 0 10px !important;
+    width: 100%;
+}
+.form-label{
+    text-transform: capitalize;
+}
+.main-Card{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inner-Card{
+    padding: 20px;
+    border:1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
